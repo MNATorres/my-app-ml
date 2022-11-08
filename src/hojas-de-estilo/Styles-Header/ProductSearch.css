@@ -1,0 +1,38 @@
+.container-search{
+    box-sizing: border-box;
+    background-color: white;
+    padding: 8px;
+    width: 598px;
+    height: 39px;
+    font-size: 13px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 11.5px;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 20%);
+    color:#666666;
+    
+}
+
+.search {
+    width: 348px;
+    
+}
+
+.check{
+    display: flex;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 0 1px 0 1px;
+    font-size: 14px;
+    width: 235px;
+    justify-content: center;
+    margin-left: -70px;
+}
+
+
+
+.check input {
+    margin-right: 4px;
+
+}

@@ -1,0 +1,15 @@
+.container-main{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: #ededed;
+}
+
+.main-content{
+    width: 1200px;
+    
+}
+
+.product-filter{
+    display: flex;
+}
